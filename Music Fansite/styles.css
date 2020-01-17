@@ -1,0 +1,22 @@
+h1 {
+    text-align: center ;
+    background-color: black ; 
+    height: 50px;
+    color: white;  
+}
+
+h2{
+    text-align: center;
+}
+
+body{
+    background-color: lightgray;
+}
+
+p{
+    text-align: center;
+}
+
+h1:hover{
+    border-radius: 900px;
+}
